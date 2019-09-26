@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Grad Hack</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="btn_device">Add Card</string>
+    <string name="btn_cloud">Detect Details</string>
+    <string name="confirm_permission">This app need to access files on your device.</string>
+    <string name="confirm_camera">This app need to access camera on your device.</string>
+    <string name="error_not_found">No text found</string>
+    <string name="error_setup_model">Error while setting up the model</string>
+    <string name="error_image_init">Image classifier has not been initialized; Skipped.</string>
+    <string name="error_run_model">Error running model inference</string>
+    <string name="error_read_label">Failed to read label list.</string>
+    <string name="error_detect">Nothing detected</string>
+
+    <string name="language_identification_hint">Fill in your text here…</string>
+    <string name="language_identification_btn1">Detect Language</string>
+    <string name="language_identification_btn2">Detect Languages</string>
+    <string name="language_identification_result">Language: %s</string>
+    <string name="language_identification_error">Can’t identify language.</string>
+
+    <string name="smart_reply_btn">Suggest Me Replying Messages</string>
+    <string name="smart_reply_error">The conversation\'s language isn\'t supported, so the result doesn\'t contain any suggestions.</string>
+
+    <string name="translate_btn">Translate</string>
+    <string name="translate_loading">Translate button will be enabled after translation model is downloaded.\n\nPlease wait…</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Deep</string>
+    <string name="nav_header_subtitle">kawadeep11@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_screen">Home Screen Activity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster. Your device should have at least one fingerprint registered in device settings)</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192149406107",
+    "firebase_url": "https://gradhack-253206.firebaseio.com",
+    "project_id": "gradhack-253206",
+    "storage_bucket": "gradhack-253206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192149406107:android:5682b5bb5984eeda8f613e",
+        "android_client_info": {
+          "package_name": "com.deep.gradhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192149406107-vf71ctkt7ho5uq1ceq1ma74gcv98l7oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6jbWXtyAtooy4eRlWHh_2ZT7XnV7YC3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192149406107-vf71ctkt7ho5uq1ceq1ma74gcv98l7oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
